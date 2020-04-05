@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2e1eb11-458b-4234-8705-33f8f4c20c5b" name="Default Changelist" comment="" />
+    <list default="true" id="a2e1eb11-458b-4234-8705-33f8f4c20c5b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ProjectPycharm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectPycharm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plik1.py" beforeDir="false" afterPath="$PROJECT_DIR$/plik1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plik2.py" beforeDir="false" afterPath="$PROJECT_DIR$/plik2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a7jAjd9vAL5tOoFL2RzX96Kwim" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RunManager">
     <configuration name="plik1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -66,25 +76,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="275" key="GridCell.Tab.0.bottom" timestamp="1586094385499">
+    <state width="1899" height="275" key="GridCell.Tab.0.bottom" timestamp="1586112493121">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="275" key="GridCell.Tab.0.bottom/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586094385499" />
-    <state width="1899" height="275" key="GridCell.Tab.0.center" timestamp="1586094385499">
+    <state width="1899" height="275" key="GridCell.Tab.0.bottom/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586112493121" />
+    <state width="1899" height="275" key="GridCell.Tab.0.center" timestamp="1586112493121">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="275" key="GridCell.Tab.0.center/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586094385499" />
-    <state width="1899" height="275" key="GridCell.Tab.0.left" timestamp="1586094385499">
+    <state width="1899" height="275" key="GridCell.Tab.0.center/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586112493121" />
+    <state width="1899" height="275" key="GridCell.Tab.0.left" timestamp="1586112493120">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="275" key="GridCell.Tab.0.left/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586094385499" />
-    <state width="1899" height="275" key="GridCell.Tab.0.right" timestamp="1586094385499">
+    <state width="1899" height="275" key="GridCell.Tab.0.left/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586112493120" />
+    <state width="1899" height="275" key="GridCell.Tab.0.right" timestamp="1586112493121">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="275" key="GridCell.Tab.0.right/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586094385499" />
-    <state x="461" y="152" key="SettingsEditor" timestamp="1586094450362">
+    <state width="1899" height="275" key="GridCell.Tab.0.right/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586112493121" />
+    <state x="461" y="152" key="SettingsEditor" timestamp="1586094685663">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="461" y="152" key="SettingsEditor/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586094450362" />
+    <state x="461" y="152" key="SettingsEditor/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586094685663" />
   </component>
 </project>
