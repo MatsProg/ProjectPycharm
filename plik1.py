@@ -1,10 +1,13 @@
 #from plik2 import klasaPlik2 #importuje klase
 from plik2 import klasaPlik2 as Plik2 # importuje klase i zmienia nazwe
 #import plik2 # importuje caly plik
+#import biblioteka
+from biblioteka import plik3  # as bib3 # importuje plik z folderu biblioteka
 
 p2k = Plik2() #tworze obiekt class pliku2
 p2k.zawartoscpliku2() #wywoluje funkcje/metode z pliku2
-
+p3k = plik3.klasaPlik3() #tworze obiekt class pliku3
+p3k.zawartoscpliku3() #wywoluje funkcje/metode z pliku3
 class PC:
     def __init__(self):
         print('init wykonuje sie bez wywolywania')
@@ -27,7 +30,7 @@ klasa2.main()
 print(klasa2.name)
 #zmiana wartosci np age
 klasa2.age = 14
-print(klasa2.age) #14 a bylo 22
+print(str(klasa2.age) + '\n') #14 a bylo 22    #zamienia int na str zeby dalo sie wydrukowac int i str w princie
 #def update (albo cokolwiek to tylko nazwa) - po wywolaniu dopiero zmienia dane ktore sa w srodku
 
 ############################################# dziedziczenie- SINGLE LEVEL INHERITANCE
