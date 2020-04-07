@@ -86,6 +86,6 @@ klasaE = E()
 # a2.AA() #Klasa B - wywołanie metody AA odziedziczonej z klasy A
 # c3.AA() # zawiera wszystkie wczesniejsze metody
 
-ObiekPC = PC()
+ObiektPC = PC()
 if __name__ == '__main__':  # main wykona sie tylko, jezeli program jest odpalany z tego skryptu, inaczej name =/ main. import file nie odpali maina
-    ObiekPC.main()  #
+    ObiektPC.main()  #
