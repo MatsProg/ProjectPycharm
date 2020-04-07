@@ -3,5 +3,5 @@ class klasaPlik3:
         print('Biblioteka plik3 startuje \n')
 
     def __init__(self):
-        pass #nie moze byc pusta funkcja
-      #  self.name = name
+        pass  # nie moze byc pusta funkcja
+    #  self.name = name
