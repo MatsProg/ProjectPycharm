@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2e1eb11-458b-4234-8705-33f8f4c20c5b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteka/plik3.py" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/plik3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plik1.py" beforeDir="false" afterPath="$PROJECT_DIR$/plik1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plik2.py" beforeDir="false" afterPath="$PROJECT_DIR$/plik2.py" afterDir="false" />
-    </list>
+    <list default="true" id="a2e1eb11-458b-4234-8705-33f8f4c20c5b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586279761241</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1586279814535</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586279814535</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -106,22 +108,22 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="614" y="104" key="CommitChangelistDialog2/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586279813264" />
-    <state width="1899" height="275" key="GridCell.Tab.0.bottom" timestamp="1586279797953">
+    <state width="1899" height="275" key="GridCell.Tab.0.bottom" timestamp="1586279938411">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="275" key="GridCell.Tab.0.bottom/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586279797953" />
-    <state width="1899" height="275" key="GridCell.Tab.0.center" timestamp="1586279797953">
+    <state width="1899" height="275" key="GridCell.Tab.0.bottom/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586279938411" />
+    <state width="1899" height="275" key="GridCell.Tab.0.center" timestamp="1586279938410">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="275" key="GridCell.Tab.0.center/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586279797953" />
-    <state width="1899" height="275" key="GridCell.Tab.0.left" timestamp="1586279797953">
+    <state width="1899" height="275" key="GridCell.Tab.0.center/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586279938410" />
+    <state width="1899" height="275" key="GridCell.Tab.0.left" timestamp="1586279938410">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="275" key="GridCell.Tab.0.left/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586279797953" />
-    <state width="1899" height="275" key="GridCell.Tab.0.right" timestamp="1586279797953">
+    <state width="1899" height="275" key="GridCell.Tab.0.left/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586279938410" />
+    <state width="1899" height="275" key="GridCell.Tab.0.right" timestamp="1586279938411">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="275" key="GridCell.Tab.0.right/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586279797953" />
+    <state width="1899" height="275" key="GridCell.Tab.0.right/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586279938411" />
     <state x="461" y="152" key="SettingsEditor" timestamp="1586094685663">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
