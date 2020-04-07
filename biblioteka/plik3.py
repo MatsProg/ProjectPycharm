@@ -1,6 +1,6 @@
-class klasaPlik2:
-    def zawartoscpliku2(self):
-        print('plik2 startuje')
+class klasaPlik3:
+    def zawartoscpliku3(self):
+        print('Biblioteka plik3 startuje')
 
     def __init__(self):
         pass #nie moze byc pusta funkcja

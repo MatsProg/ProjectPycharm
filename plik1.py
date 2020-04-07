@@ -1,6 +1,8 @@
-from plik2 import * #importuje caly plik
+#from plik2 import klasaPlik2 #importuje klase
+from plik2 import klasaPlik2 as Plik2 # importuje klase i zmienia nazwe
+#import plik2 # importuje caly plik
 
-p2k = plik2() #tworze obiekt class pliku2
+p2k = Plik2() #tworze obiekt class pliku2
 p2k.zawartoscpliku2() #wywoluje funkcje/metode z pliku2
 
 class PC:
@@ -61,5 +63,9 @@ class E(A,D): ############################ nazwa MULTIPLE INHERITANCE inheritanc
 klasaE = E()
 #a2.AA() #Klasa B - wywołanie metody AA odziedziczonej z klasy A
 #c3.AA() # zawiera wszystkie wczesniejsze metody
+
+ObiekPC = PC()
+if __name__ == '__main__': #main wykona sie tylko, jezeli program jest odpalany z tego skryptu, inaczej name =/ main. import file nie odpali maina
+    ObiekPC.main()      #
 
 
