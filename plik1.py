@@ -73,7 +73,7 @@ class D():
 class E(A, D):  ############################ nazwa MULTIPLE INHERITANCE inheritance z dwoch klas
     def __init__(self):  # wywolanie metody E wywoluje tylko E init
         print('E class init')
-        super().__init__()  # wywoluje init z Superclass
+        super().__init__()  # wywoluje init z Superclass np super().__init__(name, age)
 
     def GG(self):
         print('7')

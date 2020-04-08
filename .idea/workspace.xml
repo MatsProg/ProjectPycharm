@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a2e1eb11-458b-4234-8705-33f8f4c20c5b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plik1.py" beforeDir="false" afterPath="$PROJECT_DIR$/plik1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586284404964</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1586284489740</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586284489740</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -113,10 +121,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="104" key="CommitChangelistDialog2" timestamp="1586284409110">
+    <state x="614" y="104" key="CommitChangelistDialog2" timestamp="1586284488955">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="614" y="104" key="CommitChangelistDialog2/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586284409110" />
+    <state x="614" y="104" key="CommitChangelistDialog2/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586284488955" />
     <state width="1899" height="275" key="GridCell.Tab.0.bottom" timestamp="1586279938411">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -137,13 +145,24 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="461" y="152" key="SettingsEditor/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586094685663" />
-    <state x="769" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586284411655">
+    <state x="769" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586284492352">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="769" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586284411655" />
+    <state x="769" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586284492352" />
     <state x="623" y="219" width="672" height="678" key="search.everywhere.popup" timestamp="1586279778186">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="623" y="219" width="672" height="678" key="search.everywhere.popup/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586279778186" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plik1.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
