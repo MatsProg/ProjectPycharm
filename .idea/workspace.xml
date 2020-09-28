@@ -16,10 +16,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1a7jAjd9vAL5tOoFL2RzX96Kwim" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -206,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601310571778</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="update">
+      <created>1601310645389</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601310645389</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -219,10 +227,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="578" y="167" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1600623579813" />
-    <state x="409" y="0" key="CommitChangelistDialog2" timestamp="1601310571033">
+    <state x="409" y="0" key="CommitChangelistDialog2" timestamp="1601310644647">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="409" y="0" key="CommitChangelistDialog2/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601310571033" />
+    <state x="409" y="0" key="CommitChangelistDialog2/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601310644647" />
     <state x="409" y="0" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1595073158190" />
     <state x="409" y="0" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1600621592074" />
     <state width="1887" height="316" key="GridCell.Tab.0.bottom" timestamp="1601310579258">
@@ -261,10 +269,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1887" height="316" key="GridCell.Tab.1.right/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601310579258" />
-    <state x="672" y="393" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601310564130">
+    <state x="672" y="393" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601310636200">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="672" y="393" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601310564130" />
+    <state x="672" y="393" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601310636200" />
     <state x="700" y="148" width="1392" height="749" key="dock-window-1" timestamp="1600624532970">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
