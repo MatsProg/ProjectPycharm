@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2e1eb11-458b-4234-8705-33f8f4c20c5b" name="Default Changelist" comment="" />
+    <list default="true" id="a2e1eb11-458b-4234-8705-33f8f4c20c5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/biblioteka/_milion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteka/_reader1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteka/alice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteka/expections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteka/file_write.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteka/1st/reader2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/1st/_reader2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteka/file_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/file_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteka/filename1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/_filename1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteka/milion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteka/reader1.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,9 +42,31 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
-  <component name="RunManager" selected="Python.file_read">
+  <component name="RunManager" selected="Python.expections">
+    <configuration name="expections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectPycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/biblioteka" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/biblioteka/expections.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="file_read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectPycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,6 +88,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="file_write" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectPycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/biblioteka" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/biblioteka/file_write.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="plik1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectPycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,27 +122,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plik1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="plik2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectPycharm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plik2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,10 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.expections" />
         <item itemvalue="Python.file_read" />
+        <item itemvalue="Python.file_write" />
         <item itemvalue="Python.plik1" />
         <item itemvalue="Python.plik3" />
-        <item itemvalue="Python.plik2" />
       </list>
     </recent_temporary>
   </component>
@@ -233,42 +268,42 @@
     <state x="409" y="0" key="CommitChangelistDialog2/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601310644647" />
     <state x="409" y="0" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1595073158190" />
     <state x="409" y="0" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1600621592074" />
-    <state width="1887" height="316" key="GridCell.Tab.0.bottom" timestamp="1601310579258">
+    <state width="1887" height="253" key="GridCell.Tab.0.bottom" timestamp="1601372630881">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1887" height="316" key="GridCell.Tab.0.bottom/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601310579258" />
+    <state width="1887" height="253" key="GridCell.Tab.0.bottom/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601372630881" />
     <state width="1887" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1600623415688" />
-    <state width="1887" height="316" key="GridCell.Tab.0.center" timestamp="1601310579257">
+    <state width="1887" height="253" key="GridCell.Tab.0.center" timestamp="1601372630881">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1887" height="316" key="GridCell.Tab.0.center/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601310579257" />
+    <state width="1887" height="253" key="GridCell.Tab.0.center/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601372630881" />
     <state width="1887" height="253" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1600623415688" />
-    <state width="1887" height="316" key="GridCell.Tab.0.left" timestamp="1601310579257">
+    <state width="1887" height="253" key="GridCell.Tab.0.left" timestamp="1601372630881">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1887" height="316" key="GridCell.Tab.0.left/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601310579257" />
+    <state width="1887" height="253" key="GridCell.Tab.0.left/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601372630881" />
     <state width="1887" height="253" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1600623415688" />
-    <state width="1887" height="316" key="GridCell.Tab.0.right" timestamp="1601310579258">
+    <state width="1887" height="253" key="GridCell.Tab.0.right" timestamp="1601372630881">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1887" height="316" key="GridCell.Tab.0.right/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601310579258" />
+    <state width="1887" height="253" key="GridCell.Tab.0.right/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601372630881" />
     <state width="1887" height="253" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1600623415688" />
-    <state width="1887" height="316" key="GridCell.Tab.1.bottom" timestamp="1601310579258">
+    <state width="1887" height="316" key="GridCell.Tab.1.bottom" timestamp="1601372583158">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1887" height="316" key="GridCell.Tab.1.bottom/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601310579258" />
-    <state width="1887" height="316" key="GridCell.Tab.1.center" timestamp="1601310579258">
+    <state width="1887" height="316" key="GridCell.Tab.1.bottom/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601372583158" />
+    <state width="1887" height="316" key="GridCell.Tab.1.center" timestamp="1601372583158">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1887" height="316" key="GridCell.Tab.1.center/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601310579258" />
-    <state width="1887" height="316" key="GridCell.Tab.1.left" timestamp="1601310579258">
+    <state width="1887" height="316" key="GridCell.Tab.1.center/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601372583158" />
+    <state width="1887" height="316" key="GridCell.Tab.1.left" timestamp="1601372583158">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1887" height="316" key="GridCell.Tab.1.left/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601310579258" />
-    <state width="1887" height="316" key="GridCell.Tab.1.right" timestamp="1601310579258">
+    <state width="1887" height="316" key="GridCell.Tab.1.left/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601372583158" />
+    <state width="1887" height="316" key="GridCell.Tab.1.right" timestamp="1601372583158">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1887" height="316" key="GridCell.Tab.1.right/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601310579258" />
+    <state width="1887" height="316" key="GridCell.Tab.1.right/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601372583158" />
     <state x="672" y="393" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601310636200">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -277,6 +312,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="700" y="148" width="1392" height="749" key="dock-window-1/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1600624532970" />
+    <state x="453" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1601372955479">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="453" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601372955479" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

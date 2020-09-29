@@ -1,12 +1,12 @@
 class ReadFile:
 	def start_read(self):
-		with open('reader1.txt') as file_object: #open file
+		with open('_reader1.txt') as file_object: #open file
 			contents = file_object.read()
 			print(contents)
 			#or
 			#print(contents.rstrip())
 	#wejscie do folderu
-		with open('1st/reader2.txt') as file_object1: #open file from folder
+		with open('1st/_reader2.txt') as file_object1: #open file from folder
 			contents2 = file_object1.read()
 			print(contents2)
 	# absolute path
@@ -17,7 +17,7 @@ class ReadFile:
 			contents3 = file_object3.read()
 			print(contents3)
 
-		filename = 'filename1.txt'
+		filename = '_filename1.txt'
 		with open(filename) as file_object4: #print file in for loop
 			for line in file_object4:
 				print(line.rstrip().title())
@@ -34,7 +34,7 @@ class ReadFile:
 		print(edit + ' STORED IN LIST')
 		print(str(len(edit)) + ' QTY CHAR')
 
-		filenameM = 'milion.txt'
+		filenameM = '_milion.txt'
 		with open(filenameM) as file_object6:
 			lines = file_object6.readlines()
 		edit1 = ''
