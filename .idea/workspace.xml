@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2e1eb11-458b-4234-8705-33f8f4c20c5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/biblioteka/_milion.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biblioteka/_reader1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biblioteka/alice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biblioteka/expections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biblioteka/file_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteka/1st/jso_nTest_READER.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteka/Moby_Dick.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteka/Sherlock_Holmes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteka/jso_nTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteka/1st/reader2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/1st/_reader2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteka/file_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/file_read.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteka/filename1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/_filename1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteka/milion.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteka/reader1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteka/_milion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/_milion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteka/alice.py" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/alice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteka/expections.py" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/expections.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteka/file_write.py" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/file_write.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,28 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
-  <component name="RunManager" selected="Python.expections">
+  <component name="RunManager" selected="Python.jso_nTest_READER">
+    <configuration name="alice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectPycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/biblioteka" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/biblioteka/alice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="expections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectPycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,27 +78,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/biblioteka/expections.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="file_read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectPycharm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/biblioteka" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/biblioteka/file_read.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,28 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plik1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectPycharm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plik1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="plik3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="jso_nTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectPycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +119,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/biblioteka/plik3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\MatsProg\Documents\GitHub\ProjectPycharm\biblioteka\jso_nTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jso_nTest_READER" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectPycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/biblioteka/1st" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/biblioteka/1st/jso_nTest_READER.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,14 +151,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.expections" />
-        <item itemvalue="Python.file_read" />
+        <item itemvalue="Python.jso_nTest_READER" />
+        <item itemvalue="Python.jso_nTest" />
         <item itemvalue="Python.file_write" />
-        <item itemvalue="Python.plik1" />
-        <item itemvalue="Python.plik3" />
+        <item itemvalue="Python.expections" />
+        <item itemvalue="Python.alice" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -249,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601310645389</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <created>1601373152202</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601373152202</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -262,48 +268,64 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="578" y="167" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1600623579813" />
-    <state x="409" y="0" key="CommitChangelistDialog2" timestamp="1601310644647">
+    <state x="409" y="0" key="CommitChangelistDialog2" timestamp="1601373151275">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="409" y="0" key="CommitChangelistDialog2/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601310644647" />
+    <state x="409" y="0" key="CommitChangelistDialog2/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601373151275" />
     <state x="409" y="0" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1595073158190" />
     <state x="409" y="0" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1600621592074" />
-    <state width="1887" height="253" key="GridCell.Tab.0.bottom" timestamp="1601372630881">
+    <state width="1887" height="252" key="GridCell.Tab.0.bottom" timestamp="1602439087404">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1887" height="253" key="GridCell.Tab.0.bottom/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601372630881" />
+    <state width="1887" height="253" key="GridCell.Tab.0.bottom/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601375390331" />
+    <state width="1887" height="242" key="GridCell.Tab.0.bottom/0.0.1920.1019/0.-1080.1920.1080@0.0.1920.1019" timestamp="1602436867662" />
+    <state width="1887" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1050/0.-1080.1920.1080@0.0.1920.1050" timestamp="1602439087404" />
     <state width="1887" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1600623415688" />
-    <state width="1887" height="253" key="GridCell.Tab.0.center" timestamp="1601372630881">
+    <state width="1887" height="252" key="GridCell.Tab.0.center" timestamp="1602439087404">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1887" height="253" key="GridCell.Tab.0.center/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601372630881" />
+    <state width="1887" height="253" key="GridCell.Tab.0.center/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601375390331" />
+    <state width="1887" height="242" key="GridCell.Tab.0.center/0.0.1920.1019/0.-1080.1920.1080@0.0.1920.1019" timestamp="1602436867661" />
+    <state width="1887" height="252" key="GridCell.Tab.0.center/0.0.1920.1050/0.-1080.1920.1080@0.0.1920.1050" timestamp="1602439087404" />
     <state width="1887" height="253" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1600623415688" />
-    <state width="1887" height="253" key="GridCell.Tab.0.left" timestamp="1601372630881">
+    <state width="1887" height="252" key="GridCell.Tab.0.left" timestamp="1602439087404">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1887" height="253" key="GridCell.Tab.0.left/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601372630881" />
+    <state width="1887" height="253" key="GridCell.Tab.0.left/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601375390331" />
+    <state width="1887" height="242" key="GridCell.Tab.0.left/0.0.1920.1019/0.-1080.1920.1080@0.0.1920.1019" timestamp="1602436867661" />
+    <state width="1887" height="252" key="GridCell.Tab.0.left/0.0.1920.1050/0.-1080.1920.1080@0.0.1920.1050" timestamp="1602439087404" />
     <state width="1887" height="253" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1600623415688" />
-    <state width="1887" height="253" key="GridCell.Tab.0.right" timestamp="1601372630881">
+    <state width="1887" height="252" key="GridCell.Tab.0.right" timestamp="1602439087404">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1887" height="253" key="GridCell.Tab.0.right/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601372630881" />
+    <state width="1887" height="253" key="GridCell.Tab.0.right/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601375390331" />
+    <state width="1887" height="242" key="GridCell.Tab.0.right/0.0.1920.1019/0.-1080.1920.1080@0.0.1920.1019" timestamp="1602436867661" />
+    <state width="1887" height="252" key="GridCell.Tab.0.right/0.0.1920.1050/0.-1080.1920.1080@0.0.1920.1050" timestamp="1602439087404" />
     <state width="1887" height="253" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1600623415688" />
-    <state width="1887" height="316" key="GridCell.Tab.1.bottom" timestamp="1601372583158">
+    <state width="1887" height="303" key="GridCell.Tab.1.bottom" timestamp="1602438691128">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1887" height="316" key="GridCell.Tab.1.bottom/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601372583158" />
-    <state width="1887" height="316" key="GridCell.Tab.1.center" timestamp="1601372583158">
+    <state width="1887" height="316" key="GridCell.Tab.1.bottom/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601375390331" />
+    <state width="1887" height="303" key="GridCell.Tab.1.bottom/0.0.1920.1019/0.-1080.1920.1080@0.0.1920.1019" timestamp="1602436827234" />
+    <state width="1887" height="303" key="GridCell.Tab.1.bottom/0.0.1920.1050/0.-1080.1920.1080@0.0.1920.1050" timestamp="1602438691128" />
+    <state width="1887" height="303" key="GridCell.Tab.1.center" timestamp="1602438691127">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1887" height="316" key="GridCell.Tab.1.center/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601372583158" />
-    <state width="1887" height="316" key="GridCell.Tab.1.left" timestamp="1601372583158">
+    <state width="1887" height="316" key="GridCell.Tab.1.center/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601375390331" />
+    <state width="1887" height="303" key="GridCell.Tab.1.center/0.0.1920.1019/0.-1080.1920.1080@0.0.1920.1019" timestamp="1602436827233" />
+    <state width="1887" height="303" key="GridCell.Tab.1.center/0.0.1920.1050/0.-1080.1920.1080@0.0.1920.1050" timestamp="1602438691127" />
+    <state width="1887" height="303" key="GridCell.Tab.1.left" timestamp="1602438691127">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1887" height="316" key="GridCell.Tab.1.left/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601372583158" />
-    <state width="1887" height="316" key="GridCell.Tab.1.right" timestamp="1601372583158">
+    <state width="1887" height="316" key="GridCell.Tab.1.left/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601375390331" />
+    <state width="1887" height="303" key="GridCell.Tab.1.left/0.0.1920.1019/0.-1080.1920.1080@0.0.1920.1019" timestamp="1602436827233" />
+    <state width="1887" height="303" key="GridCell.Tab.1.left/0.0.1920.1050/0.-1080.1920.1080@0.0.1920.1050" timestamp="1602438691127" />
+    <state width="1887" height="303" key="GridCell.Tab.1.right" timestamp="1602438691128">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1887" height="316" key="GridCell.Tab.1.right/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601372583158" />
+    <state width="1887" height="316" key="GridCell.Tab.1.right/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601375390331" />
+    <state width="1887" height="303" key="GridCell.Tab.1.right/0.0.1920.1019/0.-1080.1920.1080@0.0.1920.1019" timestamp="1602436827234" />
+    <state width="1887" height="303" key="GridCell.Tab.1.right/0.0.1920.1050/0.-1080.1920.1080@0.0.1920.1050" timestamp="1602438691128" />
     <state x="672" y="393" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601310636200">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

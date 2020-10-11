@@ -20,7 +20,7 @@ class Except:
 				print('\nERROR')
 
 			else:
-				print('\n  result is'+ str(solve))
+				print('\n  result is   : '+ str(solve))
 				break
 	def filename(self):
 

@@ -1,3 +1,4 @@
+
 class WriteFile:
 	def file_write(self):
 		print('START')
